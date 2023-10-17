@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="727cfd55-0c24-4b2f-aa1c-064d5382ee38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DataStructures.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ajdin/IdeaProjects/oopLabs&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -77,6 +78,10 @@
       <workItem from="1696962158306" duration="149000" />
       <workItem from="1696962323230" duration="4019000" />
       <workItem from="1697381676437" duration="994000" />
+      <workItem from="1697382808273" duration="331000" />
+      <workItem from="1697526398873" duration="43000" />
+      <workItem from="1697527013360" duration="56000" />
+      <workItem from="1697542774733" duration="2563000" />
     </task>
     <servers />
   </component>
