@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="727cfd55-0c24-4b2f-aa1c-064d5382ee38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DataStructures.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,11 +81,24 @@
       <workItem from="1697382808273" duration="331000" />
       <workItem from="1697526398873" duration="43000" />
       <workItem from="1697527013360" duration="56000" />
-      <workItem from="1697542774733" duration="2563000" />
+      <workItem from="1697542774733" duration="3489000" />
+      <workItem from="1698146008246" duration="10000" />
+      <workItem from="1698162356739" duration="3971000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
