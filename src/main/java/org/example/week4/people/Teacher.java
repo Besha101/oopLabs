@@ -1,4 +1,4 @@
-package org.example.people;
+package org.example.week4.people;
 
 public class Teacher extends Person{
     private int salary;

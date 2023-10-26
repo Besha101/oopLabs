@@ -1,4 +1,4 @@
-package org.example.shape;
+package org.example.week4.shape;
 
 enum fillType{
     FILLED,NOT_FILLED
