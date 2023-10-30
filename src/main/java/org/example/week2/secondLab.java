@@ -1,4 +1,4 @@
-package org.example;
+package org.example.week2;
 import java.util.Random;
 import java.util.Scanner;
 
