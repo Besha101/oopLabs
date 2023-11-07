@@ -13,7 +13,7 @@ public abstract class Box {
     public abstract void add(Thing thing);
 
     protected int getMaxWeight() {
-        return Integer.MAX_VALUE; // Default maxWeight value
+        return Integer.MAX_VALUE;
     }
 
     public int currentWeight() {
