@@ -1,7 +1,7 @@
 package org.example.week6.HashMapExercises.a3rdTask;
 import java.util.Scanner;
 
-public class TextUserInterface {
+public class    TextUserInterface {
 
     private Scanner reader;
     private Dictionary dictionary;
