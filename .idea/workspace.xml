@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="727cfd55-0c24-4b2f-aa1c-064d5382ee38" name="Changes" comment="week4final">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/Generics/EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/Generics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/Generics/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/Tasks1to7/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week5/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week5/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week5/MilitaryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week5/MilitaryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week6/Birdwatchers/Birds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/Birdwatchers/Birds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week6/Birdwatchers/Birdwatchers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/Birdwatchers/Birdwatchers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week6/Tasks1to7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/Tasks1to7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week6/Tasks1to7/Tasks1to7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/Tasks1to7/Tasks1to7.java" afterDir="false" />
-    </list>
+    <list default="true" id="727cfd55-0c24-4b2f-aa1c-064d5382ee38" name="Changes" comment="week4final" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +69,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
