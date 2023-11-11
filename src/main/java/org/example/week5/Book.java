@@ -14,6 +14,7 @@ public class Book implements ToBeStored {
 
     @Override
     public double weight(){
+
         return weight;
     }
     @Override
