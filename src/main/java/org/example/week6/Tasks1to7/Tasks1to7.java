@@ -59,6 +59,16 @@ public class Tasks1to7 {
 
     }
 
+    public static void printElegantly(int[] array){
+        for(int i=0;i<array.length;i++){
+            System.out.print(array[i]);
+            if(array.length==i+1){
+                continue;
+            }
+            else System.out.print(", ");
+        }
+    }
+
 
 
 

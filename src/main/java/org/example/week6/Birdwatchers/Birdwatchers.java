@@ -10,14 +10,18 @@ public class Birdwatchers {
 
     HashMap<String, Birds> birds;
 
+
+
     public Birdwatchers(Scanner reader, HashMap<String, Birds> birds) {
         this.reader = reader;
         this.birds = birds;
     }
 
+
+
     public void start() {
         while (true) {
-            System.out.print("?");
+            System.out.print("? ");
             String command = reader.nextLine();
 
             if (command.equals("Add")) {
@@ -26,15 +30,10 @@ public class Birdwatchers {
                 String name = reader.nextLine();
                 System.out.print("Latin Name: ");
                 String latinName = reader.nextLine();
-                if(birds.containsKey(name)){
-                    Birds bird=birds.get(name);
-                    bird.setCounter(bird.getCounter()+1);
+
+                    Birds bird=new Birds(name,latinName,0);
                     birds.put(name,bird);
-                }
-                else {
-                    Birds bird=new Birds(name,latinName,1);
-                    birds.put(name,bird);
-                }
+
 
 
 
@@ -51,6 +50,25 @@ public class Birdwatchers {
 
                 break;
                 
+            } else if (command.equals("Statistics")) {
+
+                for(String name: birds.keySet()){
+                    Birds bird=birds.get(name);
+                    System.out.println(bird.toString());
+                }
+                
+            } else if (command.equals("Observation")) {
+
+                System.out.print("What was observed:? ");
+                String word=reader.nextLine();
+
+                if(birds.containsKey(word)){
+                    Birds bird=birds.get(word);
+                    bird.setCounter(bird.getCounter()+1);
+
+                }
+
+
             }
 
         }

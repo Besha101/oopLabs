@@ -42,11 +42,7 @@ public class Birds {
 
     @Override
     public String toString() {
-        return "Birds{" +
-                "name='" + name + '\'' +
-                ", latinName='" + latinName + '\'' +
-                ", counter=" + counter +
-                '}';
+        return name + " (" + latinName + "): " + counter + " observations";
     }
 }
 
