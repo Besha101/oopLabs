@@ -12,7 +12,8 @@ This is where I'll be pushing my Java code as I learn and experiment.
 
 ## Contact Me
 
-You can connect with me on Instagram: instagram.com/_ajdin_b
+- 💬 Feel free to reach out to me through my [Instagram](https://www.instagram.com/_ajdin_b/) or [LinkedIn](https://www.linkedin.com/in/besha101/) profiles.
+- 📧 You can also shoot me an email at [ajdin.besicc@gmail.com].
 
 ## Repository Contents
 
